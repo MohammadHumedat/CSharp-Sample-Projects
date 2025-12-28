@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CarRental.PL\Forms\AdminDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\CreateRentalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\ManageCarsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\ManageCustomersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\ManageRentalAgentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\ManageSuppliersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\RentalAgentDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRental.PL\Forms\ReturnCarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
